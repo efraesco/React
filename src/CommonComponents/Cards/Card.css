@@ -1,0 +1,24 @@
+.ContainerCard .HeaderCard {
+    font-size: 24px;
+    color: blue;
+}
+
+.ContainerCard {
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 10px;
+    background-color: bisque;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+}
+
+.ContainerCard .SubTitleHeader {
+    font-size: 18px;
+    color: green;
+}
+
+.ContainerCard .BodyCard img {
+    border-radius: 15px;
+}
